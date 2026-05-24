@@ -25,7 +25,7 @@ title: Carolina Raptor Center Archives
 tagline: Unlabeled and Undated Pictures
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "Carolina Raptor Center is a 501(c)(3) nonprofit in Huntersville, NC dedicated to raptor rehabilitation, education, and conservation. At the Carolina Raptor Center, our mission is to ignite a passion for raptors and a responsibility for our shared natural world. Our Raptor Hospital provides medical care for sick, injured, or orphaned raptor patients. Every patient is treated with the goal of successful return to the wild. Our Raptor Trail is a zoo highlighting birds of prey. Our avian ambassadors inspire the public to be stewards of the natural world."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Carolina Raptor Center
 
@@ -44,7 +44,7 @@ metadata-csv: assets/crcpicuu - crcpicld.csv
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 # organization-name: "Carolina Raptor Center"
-# organization-link: https://cdil.lib.uidaho.edu/
+# organization-link: https://carolinaraptorcenter.org/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
